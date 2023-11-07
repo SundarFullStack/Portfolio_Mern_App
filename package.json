@@ -1,13 +1,12 @@
 {
 
-  "homepage":"http://SundarFullStack.github.io/Portfolio_Mern_App",
+  "homepage": "http://SundarFullStack.github.io/Portfolio_Mern_App",
 
   "name": "client",
 
   "version": "0.1.0",
 
   "private": true,
-  
 
   "main": "index.js",
 
